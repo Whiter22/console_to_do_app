@@ -1,0 +1,4 @@
+Priority: 101 - Grind
+Priority: 90 - Write code
+Priority: 1 - Sleep
+Priority: 15 - Eat
